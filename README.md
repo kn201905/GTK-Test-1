@@ -6,7 +6,8 @@ https://gihyo.jp/article/2023/07/rust-monthly-topics-04-02
 ---
 ## GTK4 のインストール
 参考 URL  
-https://gtk-rs.org/gtk4-rs/stable/latest/book/installation_windows.html
+https://gtk-rs.org/gtk4-rs/stable/latest/book/installation_windows.html  
+上記 URL の Install GTK 4 の recommended の方法に沿って、GTK4 をインストールした
 
 1. 上記の URL では「rustup default stable-msvc」とするようだけど、僕の環境ではうまくできなかったので、代わりに「rustup default stable-x86_64-pc-windows-msvc」を実行した
 
